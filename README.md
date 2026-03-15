@@ -1,11 +1,11 @@
 ## **introduction**
----
+
 i'm 25, most recently founded [imagined](https://www.imagined.studio/), a software services business (acquired by [wldd](https://inc42.com/buzz/wldd-acquires-creative-studio-imagined/)). also founded [ripen](https://ritvik.io/projects/ripen), a consumer software company. (raised $550k)
 
 "_a technical salesman who is obsessed with truth-seeking in business"_
 
 ## **timeline**
----
+
 _25yrs-now:_
 - spent the last 6 months exploring ai and prediction markets
 - built algorithms to trade prediction markets ($65k profit)
