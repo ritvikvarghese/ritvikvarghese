@@ -6,4 +6,3 @@
 ### reach out
 [ritvik.io ](https://ritvik.io/about+me)
 [x](https://x.com/ritvikio)| [youtube](https://www.youtube.com/@ritvikvarghese)| [linkedin](https://www.linkedin.com/in/rivar/)
-ritvikvarghese@gmail.com
