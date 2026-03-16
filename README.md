@@ -6,5 +6,4 @@ current: mapping how companies operate & make decisions, building specialized ai
 "_a technical salesman who is obsessed with truth-seeking in business"_
 
 ### reach out
-[ritvik.io ](https://ritvik.io/about+me)
-[x](https://x.com/ritvikio)| [youtube](https://www.youtube.com/@ritvikvarghese)| [linkedin](https://www.linkedin.com/in/rivar/)
+[ritvik.io ](https://ritvik.io/about+me)| [x](https://x.com/ritvikio)| [youtube](https://www.youtube.com/@ritvikvarghese)| [linkedin](https://www.linkedin.com/in/rivar/)
