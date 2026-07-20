@@ -1,5 +1,5 @@
 ### intro
-founder, engineer, salesman. mostly recently founded [imagined](https://www.imagined.studio/), a design studio ([acquired](https://inc42.com/buzz/wldd-acquires-creative-studio-imagined/) in june '25)
+founder, engineer, salesman. mostly recently founded [imagined](https://www.imagined.studio/), a design studio ([acquired](https://inc42.com/buzz/wldd-acquires-creative-studio-imagined/) in june '25). 
 
 previously founded [ripen](https://ritvik.io/projects/ripen), a consumer product studio that raised $550k. 
 
